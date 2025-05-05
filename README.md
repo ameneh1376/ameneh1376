@@ -1,9 +1,5 @@
 ## Hi, I'm Ameneh! 👋  
 
-**AI Developer | Computer Vision & Generative Models Specialist**  
-
-*Turning pixels into possibilities.*  
-
 Welcome to my GitHub! I’m passionate about building AI systems that **see**, **understand**, and **create**. My work spans deepfake detection, generative models, and real-time computer vision, with applications in healthcare, media, and autonomous systems.  
 
 ---
