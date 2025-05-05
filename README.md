@@ -1,8 +1,7 @@
 ## Hi, I'm Ameneh! 👋  
 
 **AI Developer | Computer Vision & Generative Models Specialist**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/amenehsadati/) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23EA4335)](sadatiameneh@gmail.com)  
+
 *Turning pixels into possibilities.*  
 
 Welcome to my GitHub! I’m passionate about building AI systems that **see**, **understand**, and **create**. My work spans deepfake detection, generative models, and real-time computer vision, with applications in healthcare, media, and autonomous systems.  
@@ -84,7 +83,8 @@ I’m open to projects in:
 - Generative AI for healthcare/art  
 - High-performance CV pipelines  
 
-Reach out: [Email](mailto:your-email) | [LinkedIn](your-linkedin-link)  
+Reach out: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/amenehsadati/) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23EA4335)](sadatiameneh@gmail.com)  
 
 
 
