@@ -1,12 +1,8 @@
 ## Hi, I'm Ameneh! 👋  
 
-<!--
-**ameneh1376/ameneh1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 **AI Developer | Computer Vision & Generative Models Specialist**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](your-linkedin-link) 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23EA4335)](mailto:your-email)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/amenehsadati/) 
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23EA4335)](sadatiameneh@gmail.com)  
 *Turning pixels into possibilities.*  
 
 Welcome to my GitHub! I’m passionate about building AI systems that **see**, **understand**, and **create**. My work spans deepfake detection, generative models, and real-time computer vision, with applications in healthcare, media, and autonomous systems.  
@@ -24,6 +20,8 @@ Welcome to my GitHub! I’m passionate about building AI systems that **see**, *
 ## 🔥 **Featured Projects**  
 *(Add your repo links!)*  
 
+
+
 ### 1. **Deepfake Detection with Diffusion Models**  
 [[Code](link)] [[Demo](link)]  
 - Trained a diffusion-based detector to identify synthetic faces with **97% accuracy** on FaceForensics++.  
@@ -40,6 +38,7 @@ Welcome to my GitHub! I’m passionate about building AI systems that **see**, *
 [[Code](link)]  
 - Generated synthetic MRI scans for rare diseases using Stable Diffusion, boosting downstream model F1-scores by **18%**.  
 - *Tech*: MONAI, PyTorch Lightning, 3D U-Net.  
+
 
 ### 4. **GAN-Based Face Swapping Pipeline**  
 [[Code](link)]  
@@ -61,6 +60,7 @@ Welcome to my GitHub! I’m passionate about building AI systems that **see**, *
 - Optimizing model latency with quantization/pruning.  
 - Detecting deepfakes in real-world scenarios.  
 
+
 ---
 
 ## 🛠️ **Tech Stack**  
@@ -77,6 +77,7 @@ Welcome to my GitHub! I’m passionate about building AI systems that **see**, *
 
 ---
 
+
 ## 🤝 **Let’s Collaborate!**  
 I’m open to projects in:  
 - Ethical deepfake detection  
@@ -84,3 +85,10 @@ I’m open to projects in:
 - High-performance CV pipelines  
 
 Reach out: [Email](mailto:your-email) | [LinkedIn](your-linkedin-link)  
+
+
+
+<!--
+**ameneh1376/ameneh1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
